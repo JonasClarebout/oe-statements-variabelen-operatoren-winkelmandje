@@ -22,7 +22,7 @@ De gegevens zijn het volgende:
 * Ga na welke variabelen omgezet moeten worden van datatype om ermee te kunnen rekenen. De waarden die je binnenkrijgt uit de textboxes zijn van het type string.
 
 ## Applicatie in werking:
-![flow](Winkelmandje.Wpf/img/flow.gif)
+![flow](flow.gif)
 
 ## Uitbreidingen
 ## Usability
